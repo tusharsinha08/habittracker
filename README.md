@@ -37,13 +37,32 @@ A comprehensive Flutter application for tracking daily habits, monitoring progre
 ## 📱 Screenshots
 
 The app includes the following main screens:
-- **Splash Screen**: Animated welcome screen
-- **Authentication**: Login and registration with validation
-- **Home**: Dashboard with today's habits and quick stats
-- **Habits**: Full habit management with filtering
-- **Progress**: Analytics and progress charts
-- **Quotes**: Motivational quotes with favorites
-- **Profile**: User settings and profile management
+- **Splash Screen**: Animated welcome screen <br><br>
+<img width="290" height="490" alt="Screenshot 2025-08-31 181708" src="https://github.com/user-attachments/assets/b46de454-efba-4cc5-9122-54f88aa5f804" />
+
+
+- **Authentication**: Login and registration with validation <br><br>
+<img width="290" height="490" alt="1" src="https://github.com/user-attachments/assets/b2a0fe9c-e72c-48cf-9891-03698c99ef62" />     <img width="290" height="490" alt="Screenshot 2025-08-31 182004" src="https://github.com/user-attachments/assets/cb9bfb79-8e62-4fa2-9104-1209a416e469" />
+
+- **Home**: Dashboard with today's habits and quick stats <br><br>
+<img width="290" height="490" alt="2" src="https://github.com/user-attachments/assets/d2b6eca3-dfda-4994-86b4-7fe22342723d" />     <img width="290" height="490" alt="d2" src="https://github.com/user-attachments/assets/e1909f43-f5ad-4864-b4d5-1671d15a83e1" />
+
+- **Habits**: Full habit management with filtering <br><br>
+<img width="290" height="490" alt="d3" src="https://github.com/user-attachments/assets/97b29431-6d74-43d4-a74e-209bf0cab56b" />     <img width="290" height="490" alt="3" src="https://github.com/user-attachments/assets/c0428a0d-2f88-487b-9bf0-beb04fd16fbd" />
+
+- **Progress**: Analytics and progress charts <br><br>
+<img width="290" height="490" alt="4" src="https://github.com/user-attachments/assets/f8914057-372b-4ea0-ae69-a08720cc21a6" />      <img width="290" height="490" alt="d5" src="https://github.com/user-attachments/assets/7a18e73c-8932-4d1c-8122-29e8744186b5" />
+
+
+- **Quotes**: Motivational quotes with favorites <br><br>
+<img width="290" height="490" alt="5" src="https://github.com/user-attachments/assets/d933ca6d-59b3-4b92-a223-fb2b1517233d" />      <img width="290" height="490" alt="d6" src="https://github.com/user-attachments/assets/37f929e3-1f37-4322-8946-bcc51ca2d9b9" />
+
+
+- **Profile**: User settings and profile management <br><br>
+
+<img width="290" height="490" alt="6" src="https://github.com/user-attachments/assets/0199c4a3-de3f-407c-951c-1f9a56e2e3a2" />       <img width="290" height="490" alt="d1" src="https://github.com/user-attachments/assets/5de02ad9-b960-4983-95f1-d38f5e07ce93" />
+
+
 
 ## 🚀 Getting Started
 
@@ -146,15 +165,6 @@ lib/
 ```
 
 ## 🔧 Configuration
-
-### Environment Variables
-Create a `.env` file in the root directory:
-```env
-FIREBASE_API_KEY=your_api_key
-FIREBASE_PROJECT_ID=your_project_id
-FIREBASE_MESSAGING_SENDER_ID=your_sender_id
-FIREBASE_APP_ID=your_app_id
-```
 
 ### Dependencies
 Key dependencies in `pubspec.yaml`:
