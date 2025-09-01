@@ -44,7 +44,7 @@ The app includes the following main screens:
 - **Authentication**: Login and registration with validation <br><br>
 <img width="290" height="490" alt="Screenshot 2025-09-01 122600" src="https://github.com/user-attachments/assets/943d5c52-4721-4e91-87dd-39e5b8f0eb6f" />   <img width="290" height="490" alt="Screenshot 2025-09-01 122630" src="https://github.com/user-attachments/assets/cd894d71-2350-47dc-aafd-8b40f7a1b95c" />
 
-<img width="290" height="490" alt="1" src="https://github.com/user-attachments/assets/b2a0fe9c-e72c-48cf-9891-03698c99ef62" />     <img width="290" height="490" alt="Screenshot 2025-08-31 182004" src="https://github.com/user-attachments/assets/cb9bfb79-8e62-4fa2-9104-1209a416e469" />
+<img width="290" height="490" alt="1" src="https://github.com/user-attachments/assets/b2a0fe9c-e72c-48cf-9891-03698c99ef62" />   
 
 - **Home**: Dashboard with today's habits and quick stats <br><br>
 <img width="290" height="490" alt="2" src="https://github.com/user-attachments/assets/d2b6eca3-dfda-4994-86b4-7fe22342723d" />     <img width="290" height="490" alt="d2" src="https://github.com/user-attachments/assets/e1909f43-f5ad-4864-b4d5-1671d15a83e1" />
